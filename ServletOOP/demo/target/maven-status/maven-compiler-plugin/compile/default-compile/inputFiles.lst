@@ -1,0 +1,16 @@
+/Users/cenk/Java/ServletOOP/demo/src/main/java/dao/TeacherRepository.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/dao/StudentRepository.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/TeacherUpdate.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/TeacherRegister.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/StudentUpdate.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/TeacherPrintAll.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/dto/Student.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/StudentRegister.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/TeacherPrint.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/dto/Teacher.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/service/TeacherService.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/StudentPrint.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/StudentPrintAll.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/service/StudentService.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/StudentDelete.java
+/Users/cenk/Java/ServletOOP/demo/src/main/java/controller/TeacherDelete.java
